@@ -1,4 +1,4 @@
-### Hi world👋
+### Hi world👋 My name is Alejandro. I'm from Chile and I work with web development
 
 <div>
     <img height='180em' src="https://github-readme-stats.vercel.app/api?username=alejandroit2019&show_icons=true&theme=dracula&include_all_commits=true"/>
