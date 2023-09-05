@@ -27,7 +27,10 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png">
   <img align="right" alt="Ralepic" height="150" style="border-radius:80px;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
+</div>
+
   ##
+  <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:alejandro.it2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
