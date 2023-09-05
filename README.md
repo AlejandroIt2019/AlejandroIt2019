@@ -1,6 +1,9 @@
 ### Hi there 👋
-![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroit2019\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019\&layout=compact\&theme=dark)
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroit2019\&include_all_commits=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019\&layout=compact\&theme=dark)
+  
+</div>
 <!--
 **AlejandroIt2019/AlejandroIt2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
