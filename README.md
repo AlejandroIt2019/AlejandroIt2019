@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
+![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroit2019\&show_icons=true\&theme=radical)
 <!--
 **AlejandroIt2019/AlejandroIt2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
