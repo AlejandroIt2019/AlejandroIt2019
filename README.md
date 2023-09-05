@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroit2019\&include_all_commits=true&count-private=true)
+  ![Ale's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroit2019\&include_all_commits=true&count_private=true)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019\&layout=compact\&theme=dark)
   
 
