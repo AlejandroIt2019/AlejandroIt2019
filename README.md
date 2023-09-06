@@ -19,6 +19,7 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/sass.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png">
+  <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/yarn/yarn-original.svg">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg">
