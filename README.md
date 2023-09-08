@@ -9,8 +9,7 @@
     <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019&layout=compact&theme=dracula"/>
 </div>
 
-  ##
-🛠️ Languages & Tools:
+  ## 🛠️ Languages & Tools:
 <div style="display: inline_block">
   <img align="center" alt="ale-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -32,8 +31,7 @@
   <img align="right" alt="Ralepic" height="150" style="border-radius:80px;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
 </div>
 
-  ##
- :file_cabinet:DB:
+  ## :file_cabinet:DB:
   <div style="display: inline_block">
   <img align="center" alt="ale-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-thumbnail.png">
