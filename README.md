@@ -8,8 +8,10 @@
     <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroit2019&theme=dracula&hide_border=false"/>
     <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019&layout=compact&theme=dracula"/>
 </div>
-## 🛠️ Languages & Tools:
-<div style="display: inline_block"><br>
+
+  ##
+🛠️ Languages & Tools:
+<div style="display: inline_block">
   <img align="center" alt="ale-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ale-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -29,8 +31,17 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png">
   <img align="right" alt="Ralepic" height="150" style="border-radius:80px;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
 </div>
-## 🛠️ DB:
+
   ##
+  DB:
+  <div style="display: inline_block">
+  <img align="center" alt="ale-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+  <img align="center" alt="ale-Ts" height="40" width="40" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-thumbnail.png">
+  
+</div>
+
+  ##
+  
   <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:alejandro.it2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
