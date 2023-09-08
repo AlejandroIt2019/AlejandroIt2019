@@ -8,7 +8,7 @@
     <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroit2019&theme=dracula&hide_border=false"/>
     <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019&layout=compact&theme=dracula"/>
 </div>
-
+## 🛠️ Languages & Tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="ale-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,7 +29,7 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png">
   <img align="right" alt="Ralepic" height="150" style="border-radius:80px;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
 </div>
-
+## 🛠️ DB:
   ##
   <div>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
