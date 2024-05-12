@@ -7,7 +7,7 @@
 <div>
     <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroit2019&theme=dracula&hide_border=false"/>
     <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019&layout=compact&theme=dracula"/>
-</div>
+</div> 
 
   ## 🛠️ Languages & Tools:
 <div style="display: inline_block">
