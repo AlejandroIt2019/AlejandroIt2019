@@ -10,7 +10,7 @@
 </div> 
 
   ## 🛠️ Languages & Tools:
-<div style="display: inline_block">
+<div style="display: inline_block; clear: both;">
   <img align="center" alt="ale-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="ale-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
