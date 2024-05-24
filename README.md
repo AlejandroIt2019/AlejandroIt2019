@@ -28,7 +28,7 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png">
-  <img align="right" alt="Ralepic" height="150" style="border-radius:80px;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
+  <img align="right" alt="Ralepic" height="150" style="border-radius:80px; z-index: 1;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
 </div>
 
   ## :file_cabinet:DB:
