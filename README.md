@@ -28,11 +28,11 @@
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Windows_Terminal_Logo.png">
   <img align="center" alt="ale-CSS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png">
-  <img align="right" alt="Ralepic" height="150" style="border-radius:80px; z-index: 1;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
+  <img align="right" alt="Ralepic" height="150" style="border-radius:5px; z-index: 1;" src="https://media.tenor.com/2dRCRq_y0X0AAAAC/wolfs-rain-spinning.gif">
 </div>
 
   ## :file_cabinet:DB:
-  <div style="display: inline_block; z-index:2;">
+  <div style="display: inline_block;">
   <img align="center" alt="ale-Js" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="ale-Ts" height="40" width="40" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-thumbnail.png">
   
