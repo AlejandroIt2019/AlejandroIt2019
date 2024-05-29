@@ -1,6 +1,6 @@
 <p align='right' fon><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Alejandroit2019&label=visitors&countColor=%2323c63e&style=plastic' alt='visitors badge' /></p>
        
-<h1 align="center">     
+<h1 align="center">      
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=15F738&center=true&lines=Welcome+to+my+GitHub+page!+👋;I'm+Alejandro;FrontEnd+web+developer" />
 </h1>
 
