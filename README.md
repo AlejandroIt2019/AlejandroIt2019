@@ -3,7 +3,7 @@
 <h1 align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=&color=15F738&center=true&lines=Welcome+to+my+GitHub+page!+👋;I'm+Alejandro;FrontEnd+web+developer" />
 </h1>
-
+ 
 <div>
     <img height='180em' src="https://github-readme-streak-stats.herokuapp.com/?user=alejandroit2019&theme=dracula&hide_border=false"/>
     <img height='180em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroit2019&layout=compact&theme=dracula"/>
